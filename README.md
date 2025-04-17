@@ -2,7 +2,7 @@
 
 Jonathan here, I am data professional experienced in building data and ai solutions, be it etl/elt pipelines or ai powered applications.
 
-### Current Skills and Technology Stack
+### Skills and Technologies
 - **Cloud Platforms:** AWS, Azure, Databricks
 - **Programming Languages:** Python, SQL, Pyspark
 - **Data Processing:** Apache Spark, Snowflake, Trino, Kafka, Flink
