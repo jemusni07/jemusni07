@@ -9,7 +9,7 @@ Jonathan here, I am data professional experienced in building data and ai soluti
 - **Tools and Frameworks:** Airflow, Kafka, DBT
 - **Data Warehouse:** Postgres, Snowflake, DynamoDB, Redshift
 - **Data Lakehouse:** Databricks, Delta Lake, Apache Iceberg, S3 Tables
-- **AI Engineering** MCP, Agentic AI Retrieval Augmented Generation, Vector Databases
+- **AI Engineering:** MCP, Agentic AI Retrieval Augmented Generation, Vector Databases
 
 ### Certifications
 - **AWS Certified Data Engineer Associate**
